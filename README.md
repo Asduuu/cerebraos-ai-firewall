@@ -38,7 +38,7 @@ Instead of relying on dumb regex rules, CerebraOS uses a hybrid approach:
 Sanitized prompts are securely forwarded to OpenAI (or fallback mock AI) and the response is delivered back to the user seamlessly.
 
 ### 3. Dynamic 3D Enterprise Dashboard
-A mind-blowing, Awwwards-level UI built with Next.js, featuring:
+A mind-blowing, Awwards-level UI built with Next.js, featuring:
 - **React Three Fiber:** A live 3D AI Core that changes color (Indigo -> Red) and vibrates when a threat is detected.
 - **Glassmorphism UI:** Premium dark-themed cybersecurity control room aesthetic.
 - **Live Data:** Real-time stats showing Total Prompts Scanned, Threats Blocked, and Money Saved.
