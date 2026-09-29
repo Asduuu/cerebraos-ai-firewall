@@ -5,6 +5,7 @@
 
 CerebraOS is a production-ready, B2B Enterprise SaaS that acts as a secure proxy gateway between enterprise employees and Large Language Models (LLMs like ChatGPT, Claude, etc.). It inspects prompts in real-time to prevent data leaks, mask sensitive PII (Personally Identifiable Information), enforce company policies, and optimize AI costs through smart routing.
 
+
 ![CerebraOS Dashboard](https://via.placeholder.com/1200x600/050508/4f46e5?text=CerebraOS+AI+Firewall+Dashboard) 
 *(Note: Replace this link with a screenshot of your dashboard later)*
 
